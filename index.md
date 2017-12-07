@@ -19,7 +19,7 @@ Hard working, excellent customer service skills. I am ready for work and I am lo
 ```
 
 ## Sales and Support Engineer 
-[E-ARION|Security systems & equipment](https://e-arion.gr/), 56A Kifisias Avenue, Amaroussion
+[E-Arion Security Systems & Equipment](https://e-arion.gr/), 56A Kifisias Avenue, Amaroussion
 
 ```markdown
 - Communicate with customers for recording and analysis. Suggest the equipment as required.

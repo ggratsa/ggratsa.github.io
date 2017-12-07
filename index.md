@@ -4,7 +4,7 @@ Programing, testing, troubleshooting and technical support in security systems s
 Hard working, excellent customer service skills. I am ready for work and I am looking for problems in order to solve them.
 
 # Experience
-!(https://github.com/ggratsa/ggratsa.github.io/blob/grg-site/sssss.JPG)
+![](https://github.com/ggratsa/ggratsa.github.io/blob/grg-site/sssss.JPG)
 ## Technical Support Engineer 
 [Vector Security Greece](http://www.vectorsecurity.gr), Agiou Savva 2, Athina
 

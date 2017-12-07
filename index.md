@@ -56,12 +56,11 @@ Technical support for the remote controllers and surveillance systems (GSM contr
 ## Warehouse manager & Sales
 [Plan A.E Σύμβουλοι Επιχειρήσεων](https://plantron.gr/), Ethnikis Antistasis 79, Ioannina
 
-```markdown
-- Seller,
-- Products receipt, 
-- Warehouse management (ERP softone), 
-- Prepare and send the orders,
-```
+- Seller
+- Products receipt
+- Warehouse management (ERP softone) 
+- Prepare and send the orders
+
 
 ```markdown
 Syntax highlighted code block

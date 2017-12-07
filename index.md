@@ -4,6 +4,7 @@ Programing, testing, troubleshooting and technical support in security systems s
 Hard working, excellent customer service skills. I am ready for work and I am looking for problems in order to solve them.
 
 # Experience
+![GitHub Logo](https://github.com/ggratsa/ggratsa.github.io/blob/grg-site/sssss.JPG)
 
 ![GitHub Logo](ggratsa.github.io/sssss.JPG)
 ## Technical Support Engineer 

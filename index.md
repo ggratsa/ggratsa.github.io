@@ -30,7 +30,7 @@ Hard working, excellent customer service skills. I am ready for work and I am lo
 - Administrator for the site www.e-arion.gr
 ```
 
-## Sales and Support Engineer 
+## Technical Support Manager
 [Plan A.E Σύμβουλοι Επιχειρήσεων](https://plantron.gr/), Ethnikis Antistasis 79, Ioannina
 
 ```markdown

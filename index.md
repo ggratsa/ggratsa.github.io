@@ -18,7 +18,7 @@ Hard working, excellent customer service skills. I am ready for work and I am lo
 - Administrator of eshop www.vectorsecurity.gr
 ```
 
-## Sales and Support Engineer 
+## Sales & Support Engineer 
 [E-Arion Security Systems & Equipment](https://e-arion.gr/), Kifisias Avenue 56A, Amaroussion
 
 ```markdown
@@ -39,6 +39,28 @@ Technical support for the remote controllers and surveillance systems (GSM contr
 -Design and automation solutions, remote control and safety systems.
 (GSM control systems, amplifiers signal GSM / 3G, Security Systems, Web controllers TCP / IP)
 - Editor for Greek manuals and quick starter guides for the products
+```
+
+## Sales & Support Engineer
+[Plan A.E Σύμβουλοι Επιχειρήσεων](https://plantron.gr/), Ethnikis Antistasis 79, Ioannina
+
+```markdown
+- Development and customer management (Drupal 6 & Ubercart)
+- Design banners, images and flyers for the promotional products (Photoshop CS5, Dreamweaver)
+- Enrichment of plantron,gr with new products, advertising campaigns, promotions and offers for the products.
+- Seller for hardware & Software products (ERP Softone), Seller for security products, GSM & Network controllers
+- Development and management the customer database
+- Administrator of eshop www.plantron.gr
+```
+
+## Warehouse manager & Sales
+[Plan A.E Σύμβουλοι Επιχειρήσεων](https://plantron.gr/), Ethnikis Antistasis 79, Ioannina
+
+```markdown
+- Seller,
+- Products receipt, 
+- Warehouse management (ERP softone), 
+- Prepare and send the orders,
 ```
 
 ```markdown

@@ -1,8 +1,8 @@
 ## Giorgos Gratsanis
 
-You can use the [editor on GitHub](https://github.com/ggratsa/ggratsa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Senior Front-End developer at Skroutz.gr. To the time being, we have complete 2 major redesigns in the period 2011-2016, we have develop an internal CSS framework, and we have expose the application in Turkey and United Kingdom!
+HTML, CSS / SCSS master, JS, Ruby / Ruby on Rails sufficient. I love to build web apps using cutting edge technologies.
+Studied Environmentalist, MSc in Water Resources Technologies, I followed my dream to build things in a space that everyone will be able to see.
 
 ### Markdown
 

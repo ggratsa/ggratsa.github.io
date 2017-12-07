@@ -5,7 +5,7 @@ Hard working, excellent customer service skills. I am ready for work and I am lo
 
 # Experience
 
-**Technical Support Engineer || [Vector Security Greece](http://www.vectorsecurity.gr), Agiou Savva 2, Athina**
+**Technical Support Engineer** || [Vector Security Greece](http://www.vectorsecurity.gr), Agiou Savva 2, Athina
 
 ```markdown
 Syntax highlighted code block

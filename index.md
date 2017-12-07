@@ -53,9 +53,11 @@ Technical support for the remote controllers and surveillance systems (GSM contr
 - Warehouse management (ERP softone) 
 - Prepare and send the orders
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2

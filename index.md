@@ -18,6 +18,19 @@ Hard working, excellent customer service skills. I am ready for work and I am lo
 - Administrator of eshop www.vectorsecurity.gr
 ```
 
+## Sales and Support Engineer 
+[E-ARION|Security systems & equipment](https://e-arion.gr/), 56A Kifisias Avenue, Amaroussion
+
+```markdown
+- Communicate with customers for recording and analysis. Suggest the equipment as required.
+- Troubleshooting Issues in the field over the phone, Skype, email.
+- Technical support for all products of company especially on cctv systems (HIKVISION, DAHUA) and security systems (BOSCH AMAX, PYRONIX PCX)
+- Support for Installation, and explanation for the operations of the company's products
+- I Create and I do presentations for the new products of company, like NVR, DVR, alarm systems, cameras etc. 
+- Development of training materials ( create manual in Greek language for the User and the Installer. wiring diagrams, settings, and the operations of the products.
+- Administrator of eshop www.vectorsecurity.gr
+```
+
 ```markdown
 Syntax highlighted code block
 

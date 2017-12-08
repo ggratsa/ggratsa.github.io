@@ -29,9 +29,9 @@ Hard working, excellent customer service skills. I am ready for work and I am lo
 ## Technical Support Manager
 [Plan A.E Σύμβουλοι Επιχειρήσεων](https://plantron.gr/), Ethnikis Antistasis 79, Ioannina
 
-Technical support for the remote controllers and surveillance systems (GSM control devices, Alarm Systems GSM / PSTN, 3G routers, DVRs & NVRs (DAHUA, HIKVISION, WETRANS), GPS trackers (JOINTEC, TELTONIKA)
--Configuration and programming control systems (CCTV, GSM / TCP-IP controllers)
--Design and automation solutions, remote control and safety systems.
+- Technical support for the remote controllers and surveillance systems (GSM control devices, Alarm Systems GSM / PSTN, 3G routers, DVRs & NVRs (DAHUA, HIKVISION, WETRANS), GPS trackers (JOINTEC, TELTONIKA)
+- Configuration and programming control systems (CCTV, GSM / TCP-IP controllers)
+- Design and automation solutions, remote control and safety systems.
 (GSM control systems, amplifiers signal GSM / 3G, Security Systems, Web controllers TCP / IP)
 - Editor for Greek manuals and quick starter guides for the products
 

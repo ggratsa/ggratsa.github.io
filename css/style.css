@@ -17,12 +17,12 @@ body {
 	-webkit-font-smoothing: antialiased;
 	width: 100%;
 	font-size:15px;
-	background:#f3f3f3;
+	background:#f3f3f3 url(../images/bannerbg.jpg) no-repeat center;
 }
 
 
 /*==========================================
-PRE LOADER 
+PRE LOADER
 ==========================================*/
 .preloader {
     position: fixed;
@@ -92,7 +92,7 @@ input[type="color"],
 .form-control {
 	border: 1px solid #ddd;
 	font-size: 16px;
-	font-family: 'Merriweather', serif;	
+	font-family: 'Merriweather', serif;
 	height: 45px;
 	border-bottom:1px solid #ddd;
 	background-color: rgba(255, 255, 255, 0);
@@ -122,7 +122,7 @@ h2 {
 	line-height: 38px;
 	font-weight: 600;
 	font-family: 'Roboto medium', serif;
-	
+
 }
 
 h3 {
@@ -242,7 +242,7 @@ a:hover{
     padding:3px 0px;
     width: 8%;
     margin: 0 auto;
-    margin-bottom: 20px;	
+    margin-bottom: 20px;
 }
 .separetor2{
     border-bottom: 3px solid #898989;
@@ -306,15 +306,15 @@ a:hover{
     padding-top: 0px;
     padding-bottom: 0px;
     position: fixed;
-    top: 0; 
-	left: 0; 
-	right: 0; 
+    top: 0;
+	left: 0;
+	right: 0;
 	z-index: 300;
     box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
     -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
     background-color: #fff;
 	height:80px;
-	
+
 }
 .container-fluid {
     margin-top: 15px;
@@ -324,8 +324,8 @@ a:hover{
 	margin-top:0px;
 }
 .main_menu_bg .navbar-default {
-    background-color: transparent; 
-    border-color: transparent; 
+    background-color: transparent;
+    border-color: transparent;
 	transition:.6s;
 }
 .navbar-default .navbar-nav>li>a {
@@ -343,7 +343,7 @@ a:hover{
 .main_menu_bg .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
 	color:#e84c3d;
 	background-color:transparent;
-	
+
 }
 
 /* logo */
@@ -423,7 +423,7 @@ a:hover{
 }
 .wedo_content_area{
 	padding-bottom:100px;
-    overflow: hidden;	
+    overflow: hidden;
 }
 .single_wedo{
 	margin-top:40px;
@@ -464,7 +464,7 @@ a:hover{
     height: 100px;
     text-align: center;
     line-height: 62px;
-	
+
 }
 .single_right_text{
 	width:70%;
@@ -531,7 +531,7 @@ a:hover{
 }
 .single_steps{
 	margin-top: 60px;
-	
+
 }
 .single_steps:hover a i{
 	color: #fff;
@@ -547,7 +547,7 @@ a:hover{
     display: inline-block;
     text-align: center;
     padding: 6px;
-    border-radius: 50%;	
+    border-radius: 50%;
 	transition:.6s;
 }
 .single_steps a i{
@@ -640,7 +640,7 @@ a:hover{
 }
 .single_service_area_three{
     background: url(../images/service3.jpg) no-repeat left top;
-    height: 337px;	
+    height: 337px;
 }
 
 .single_service{
@@ -649,8 +649,8 @@ a:hover{
 }
 .single_service h4{
 	color: #fff;
-	
-	
+
+
 }
 .single_service p{
 	color: #fff;
@@ -661,7 +661,7 @@ a:hover{
 .single_service p.service_P{
     max-width: 70%;
     margin-left: 30%;
-	
+
 }
 
 /* business Section */
@@ -685,7 +685,7 @@ a:hover{
 	color:#fff;
     font-size: 20px;
     font-family: 'Roboto';
-    font-weight: 300;	
+    font-weight: 300;
 }
 
 
@@ -695,7 +695,7 @@ a:hover{
 
 .main_mixi_content{
     max-height: 900px;
-    
+
 }
 .main_mix_menu{
     margin-bottom:50px;
@@ -759,7 +759,7 @@ a:hover{
 }
 
 .main_subcribs_content{
-	
+
 }
 
 .single_subcribs h4{
@@ -797,7 +797,7 @@ border: 1px solid #fff;
     color: #fff;
 	font-family:'Roboto';
 	font-weight:600;
-    font-size:12px;	
+    font-size:12px;
 	width:20%;
 	outline: none;
 }
@@ -830,7 +830,7 @@ border: 1px solid #fff;
 .single_team_name p{
 	font-size:12px;
 	font-family:'Roboto';
-	font-weight:300;	
+	font-weight:300;
 }
 
 .single_team_overlay{
@@ -841,7 +841,7 @@ border: 1px solid #fff;
 	left:5%;
 	bottom:5%;
 	opacity:0;
-	transition:.6s;	
+	transition:.6s;
 }
 .single_team_overlay p{
 	color:#fff;
@@ -875,7 +875,7 @@ color:#fff;
     font-weight: 300;
     letter-spacing: 4px;
 	color:#fff;
-	
+
 }
 .testimonial_overlay {
     background: rgba(39, 39, 39, 0.86);
@@ -883,7 +883,7 @@ color:#fff;
 }
 .single_testimonial_img{
 	margin-top:40px;
-	
+
 }
 .single_testimonial_img img{
 	margin-bottom:30px;
@@ -895,7 +895,7 @@ color:#fff;
     font-style: italic;
     margin-bottom: 30px;
 	color:#fff;
-	
+
 }
 .single_testimonial_img a{
 	margin-top:40px;

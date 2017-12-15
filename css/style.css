@@ -417,7 +417,7 @@ a:hover{
 	color: #81868e;
     font-family: 'OpenSans';
     font-weight: 300;
-    max-width: 42%;
+    /*max-width: 42%;*/
     margin: 0 auto;
     line-height: 25px;
 }

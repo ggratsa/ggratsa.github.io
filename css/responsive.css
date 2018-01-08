@@ -36,7 +36,7 @@
 
 /* Mobile Phone Screen Media */
 
-@media (max-width: 650px){
+@media (max-width: 768px){
 
 .single_service {
     color: #000;
